@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/felix monegro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felix monegro" height="30" width="40" /></a>
+<a href="[https://fb.com/felix monegro](https://www.facebook.com/felix.esteban.984)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felix monegro" height="30" width="40" /></a>
 <a href="https://instagram.com/felixmonegro100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felixmonegro100" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/félix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="félix" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/félix](https://www.youtube.com/channel/UCwHNr5T0zQbs1MlOpJ4MWQA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Félix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
